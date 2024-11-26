@@ -29,8 +29,9 @@ theme: minima
 plugins:
   - jekyll-feed
 
-baseurl: "/duck-syntax-website"
-url: "https://jhughesm.github.io"
+baseurl: "" # Custom domain, then this is not needed
+url: "https://ducksyntax.com" # My custom domain
+baseurl: "" # No base path since you're using a root domain"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
